@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ThisisMyPlayer
+GenericName=Media Player
+GenericName[tr]=Medya Oynatıcı
+Comment=Lightweight and simple media player powered by libmpv
+Comment[tr]=libmpv tabanlı hafif ve sade medya oynatıcı
+Exec=thisismyplayer %U
+Icon=thisismyplayer
+Terminal=false
+StartupNotify=true
+Categories=AudioVideo;Audio;Video;Player;TV;Qt;
+MimeType=video/mp4;video/x-matroska;video/quicktime;video/x-msvideo;video/webm;video/x-flv;video/x-ms-wmv;video/mpeg;video/ogg;audio/mpeg;audio/x-wav;audio/ogg;audio/flac;audio/mp4;audio/aac;
+Actions=

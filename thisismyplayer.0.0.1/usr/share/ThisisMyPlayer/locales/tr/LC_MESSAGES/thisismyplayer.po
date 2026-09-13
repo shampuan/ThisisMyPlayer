@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThisisMyPlayer 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-30 12:00+0300\n"
+"PO-Revision-Date: 2026-03-30 12:00+0300\n"
+"Last-Translator: A. Serhat KILIÇOĞLU <shampuan>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# --- Genel Bildirimler ---
+msgid "Dil Değiştirildi"
+msgstr "Dil Değiştirildi"
+
+msgid "Dil ayarının geçerli olması için uygulamanın yeniden başlatılması gerekmektedir."
+msgstr "Dil ayarının geçerli olması için uygulamanın yeniden başlatılması gerekmektedir."
+
+# --- Kontrol Paneli Buton ve İpuçları ---
+msgid "Durdur"
+msgstr "Durdur"
+
+msgid "Önceki Video"
+msgstr "Önceki Video"
+
+msgid "Sonraki Video"
+msgstr "Sonraki Video"
+
+msgid "Döngü (Liste Bitince Başa Sar)"
+msgstr "Döngü (Liste Bitince Başa Sar)"
+
+msgid "Döngü: Açık (Liste Bitince Başa Sar)"
+msgstr "Döngü: Açık (Liste Bitince Başa Sar)"
+
+msgid "Döngü: Kapalı"
+msgstr "Döngü: Kapalı"
+
+msgid "Kaynak Klasörü Aç"
+msgstr "Kaynak Klasörü Aç"
+
+msgid "Hız:"
+msgstr "Hız:"
+
+msgid "Oynatma Listesi (Ctrl+L)"
+msgstr "Oynatma Listesi (Ctrl+L)"
+
+# --- Menü Başlıkları ve Eylemleri ---
+msgid "&Dosya"
+msgstr "&Dosya"
+
+msgid "Dosya Aç..."
+msgstr "Dosya Aç..."
+
+msgid "Klasör Aç..."
+msgstr "Klasör Aç..."
+
+msgid "Bulunduğu Klasörü Aç"
+msgstr "Bulunduğu Klasörü Aç"
+
+msgid "Altyazı Dosyası Ekle..."
+msgstr "Altyazı Dosyası Ekle..."
+
+msgid "Çıkış"
+msgstr "Çıkış"
+
+msgid "&Oynat"
+msgstr "&Oynat"
+
+msgid "Oynat / Duraklat"
+msgstr "Oynat / Duraklat"
+
+msgid "Sesi Kapat / Aç"
+msgstr "Sesi Kapat / Aç"
+
+msgid "&Görünüm"
+msgstr "&Görünüm"
+
+msgid "Tam Ekran"
+msgstr "Tam Ekran"
+
+msgid "Oynatma Listesi"
+msgstr "Oynatma Listesi"
+
+msgid "&Yardım"
+msgstr "&Yardım"
+
+msgid "Dil (Language)"
+msgstr "Dil (Language)"
+
+msgid "Hakkında..."
+msgstr "Hakkında..."
+
+# --- Dosya Seçici Filtreleri ---
+msgid "Altyazı Dosyaları"
+msgstr "Altyazı Dosyaları"
+
+msgid "Tüm Dosyalar"
+msgstr "Tüm Dosyalar"
+
+msgid "Altyazı Dosyası Seç"
+msgstr "Altyazı Dosyası Seç"
+
+msgid "Tüm Medya Dosyaları"
+msgstr "Tüm Medya Dosyaları"
+
+msgid "Ses Dosyaları"
+msgstr "Ses Dosyaları"
+
+msgid "Video Dosyaları"
+msgstr "Video Dosyaları"
+
+msgid "Medya Dosyası Seç"
+msgstr "Medya Dosyası Seç"
+
+msgid "Medya Klasörü Seç"
+msgstr "Medya Klasörü Seç"
+
+# --- Hakkında Penceresi ---
+msgid "ThisisMyPlayer Hakkında"
+msgstr "ThisisMyPlayer Hakkında"
+
+msgid "Sürüm:"
+msgstr "Sürüm:"
+
+msgid "Lisans:"
+msgstr "Lisans:"
+
+msgid "Programlama Dili:"
+msgstr "Programlama Dili:"
+
+msgid "GUI/UX:"
+msgstr "GUI/UX:"
+
+msgid "Geliştirici:"
+msgstr "Geliştirici:"
+
+msgid ""
+"Bu, diğer şişkin alternatiflerine göre çok daha hafif, hızlı ve basit bir "
+"video oynatıcısıdır. Göz yormayan altyazı desteği, otomatik ses optimizasyonu, "
+"iyileştirilmiş kısayol yapısı, sürükle bırak desteği gibi birçok özelliği ile "
+"donatılmıştır."
+msgstr ""
+"Bu, diğer şişkin alternatiflerine göre çok daha hafif, hızlı ve basit bir "
+"video oynatıcısıdır. Göz yormayan altyazı desteği, otomatik ses optimizasyonu, "
+"iyileştirilmiş kısayol yapısı, sürükle bırak desteği gibi birçok özelliği ile "
+"donatılmıştır."
+
+msgid "Bu program hiçbir garanti getirmez."
+msgstr "Bu program hiçbir garanti getirmez."
+
+msgid "Telif Hakkı &copy; 2026 - A. Serhat KILIÇOĞLU"
+msgstr "Telif Hakkı &copy; 2026 - A. Serhat KILIÇOĞLU"
+
+msgid "Tamam"
+msgstr "Tamam"

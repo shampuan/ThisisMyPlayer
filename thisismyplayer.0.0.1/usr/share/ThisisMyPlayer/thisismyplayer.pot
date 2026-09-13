@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-13 12:27+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: thisismyplayer.py:311
+msgid "Dil Değiştirildi"
+msgstr ""
+
+#: thisismyplayer.py:312
+msgid ""
+"Dil ayarının geçerli olması için uygulamanın yeniden başlatılması "
+"gerekmektedir."
+msgstr ""
+
+#: thisismyplayer.py:422 thisismyplayer.py:559
+msgid "Durdur"
+msgstr ""
+
+#: thisismyplayer.py:431 thisismyplayer.py:571
+msgid "Önceki Video"
+msgstr ""
+
+#: thisismyplayer.py:439 thisismyplayer.py:566
+msgid "Sonraki Video"
+msgstr ""
+
+#: thisismyplayer.py:449
+msgid "Döngü (Liste Bitince Başa Sar)"
+msgstr ""
+
+#: thisismyplayer.py:458
+msgid "Kaynak Klasörü Aç"
+msgstr ""
+
+#: thisismyplayer.py:486
+msgid "Hız:"
+msgstr ""
+
+#: thisismyplayer.py:500
+msgid "Oynatma Listesi (Ctrl+L)"
+msgstr ""
+
+#: thisismyplayer.py:523
+msgid "&Dosya"
+msgstr ""
+
+#: thisismyplayer.py:525
+msgid "Dosya Aç..."
+msgstr ""
+
+#: thisismyplayer.py:530
+msgid "Klasör Aç..."
+msgstr ""
+
+#: thisismyplayer.py:535
+msgid "Bulunduğu Klasörü Aç"
+msgstr ""
+
+#: thisismyplayer.py:540
+msgid "Altyazı Dosyası Ekle..."
+msgstr ""
+
+#: thisismyplayer.py:547
+msgid "Çıkış"
+msgstr ""
+
+#: thisismyplayer.py:553
+msgid "&Oynat"
+msgstr ""
+
+#: thisismyplayer.py:555
+msgid "Oynat / Duraklat"
+msgstr ""
+
+#: thisismyplayer.py:578
+msgid "Sesi Kapat / Aç"
+msgstr ""
+
+#: thisismyplayer.py:584
+msgid "&Görünüm"
+msgstr ""
+
+#: thisismyplayer.py:586
+msgid "Tam Ekran"
+msgstr ""
+
+#: thisismyplayer.py:591
+msgid "Oynatma Listesi"
+msgstr ""
+
+#: thisismyplayer.py:597
+msgid "&Yardım"
+msgstr ""
+
+#: thisismyplayer.py:600
+msgid "Dil (Language)"
+msgstr ""
+
+#: thisismyplayer.py:615
+msgid "Hakkında..."
+msgstr ""
+
+#: thisismyplayer.py:656
+msgid "Altyazı Dosyaları"
+msgstr ""
+
+#: thisismyplayer.py:656 thisismyplayer.py:725
+msgid "Tüm Dosyalar"
+msgstr ""
+
+#: thisismyplayer.py:657
+msgid "Altyazı Dosyası Seç"
+msgstr ""
+
+#: thisismyplayer.py:722
+msgid "Tüm Medya Dosyaları"
+msgstr ""
+
+#: thisismyplayer.py:723
+msgid "Ses Dosyaları"
+msgstr ""
+
+#: thisismyplayer.py:724
+msgid "Video Dosyaları"
+msgstr ""
+
+#: thisismyplayer.py:729
+msgid "Medya Dosyası Seç"
+msgstr ""
+
+#: thisismyplayer.py:938
+msgid "Medya Klasörü Seç"
+msgstr ""
+
+#: thisismyplayer.py:952
+msgid "ThisisMyPlayer Hakkında"
+msgstr ""
+
+#: thisismyplayer.py:968
+msgid "Sürüm:"
+msgstr ""
+
+#: thisismyplayer.py:969
+msgid "Lisans:"
+msgstr ""
+
+#: thisismyplayer.py:970
+msgid "Programlama Dili:"
+msgstr ""
+
+#: thisismyplayer.py:971
+msgid "GUI/UX:"
+msgstr ""
+
+#: thisismyplayer.py:972
+msgid "Geliştirici:"
+msgstr ""
+
+#: thisismyplayer.py:974
+msgid ""
+"Bu, diğer şişkin alternatiflerine göre çok daha hafif, hızlı ve basit bir "
+"video oynatıcısıdır. Göz yormayan altyazı desteği, otomatik ses "
+"optimizasyonu, iyileştirilmiş kısayol yapısı, sürükle bırak desteği gibi "
+"birçok özelliği ile donatılmıştır."
+msgstr ""
+
+#: thisismyplayer.py:978
+msgid "Bu program hiçbir garanti getirmez."
+msgstr ""
+
+#: thisismyplayer.py:979
+msgid "Telif Hakkı &copy; 2026 - A. Serhat KILIÇOĞLU"
+msgstr ""
+
+#: thisismyplayer.py:1005
+msgid "Tamam"
+msgstr ""
+
+#: thisismyplayer.py:1017
+msgid "Döngü: Açık (Liste Bitince Başa Sar)"
+msgstr ""
+
+#: thisismyplayer.py:1019
+msgid "Döngü: Kapalı"
+msgstr ""
